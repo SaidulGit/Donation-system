@@ -1,0 +1,135 @@
+[
+    {
+        "id": "1",
+        "picture": "https://i.ibb.co/kmMyw3t/Health.png",
+        "title": "Clean water for health",
+        "category": "Health",
+        "category_bg_color": "#7ba3db",
+        "card_bg_color": "#b1ccf2",
+        "text_button_bg_color": "#1f64c4",
+        "description": "Clean Water for Health is a critical initiative aimed at ensuring access to safe and clean drinking water for all, as it plays a fundamental role in promoting public health and well-being.Clean Water for Health is an imperative initiative that recognizes the transformative power of clean water in improving public health, reducing disease burdens, and enhancing the overall quality of life. It strives to ensure that every person, regardless of their location or socioeconomic status, has access to this essential resource for a healthier and more prosperous future.",
+        "price": "$99.99"
+      },
+      {
+        "id": "2",
+        "picture": "https://i.ibb.co/mtFG4t1/Food.png",
+        "title": "Better Food For Everyone",
+        "category": "Food",
+        "category_bg_color": "#f5e6ce",
+        "card_bg_color": "#f0dada",
+        "text_button_bg_color": "#e69d7e",
+        "description": "Better food for everyone is a vision and initiative that seeks to improve the quality, accessibility, and sustainability of food for people around the world.In essence, better food for everyone is a multifaceted approach that envisions a world where food is not only abundant but also nutritious, environmentally sustainable, and accessible to all. It is a call to action for individuals, communities, and nations to come together to create a future where food contributes to the well-being of people and the planet alike.",
+        "price": "$79.99"
+      },
+      {
+        "id": "3",
+        "picture": "https://i.ibb.co/9tgZnMf/Education.png",
+        "title": "Good Education",
+        "category": "Education",
+        "category_bg_color": "#fac5c5",
+        "card_bg_color": "#fae6e6",
+        "text_button_bg_color": "#ed6666",
+        "description": "Good education refers to a high-quality and effective system of learning and instruction that equips individuals with the knowledge, skills, and tools they need to succeed academically, personally, and professionally. good education is a comprehensive and inclusive approach to learning that prioritizes the development of well-rounded individuals with strong academic skills, critical thinking abilities, creativity, and a sense of social responsibility. It empowers students to thrive in a rapidly changing world. ",
+        "price": "$49.99"
+      },
+      {
+        "id": "4",
+        "picture": "https://i.ibb.co/dc1kzdn/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#9cd6a4",
+        "card_bg_color": "#dcfae0",
+        "text_button_bg_color": "#94f294",
+        "description": "A Used Clothing Drive is a charitable event or campaign designed to collect gently used clothing from individuals, communities, or organizations and distribute them to those in need.Used Clothing Drive is not only a practical way to provide clothing to those in need but also an opportunity for communities to come together, show compassion, and make a positive impact on the lives of others. It embodies the spirit of generosity and solidarity and serves as a reminder of the power of collective action to create positive change.",
+        "price": "$19.99"
+      },
+      {
+        "id": "5",
+        "picture": "https://i.ibb.co/9tgZnMf/Education.png",
+        "title": "Good Education",
+        "category": "Education",
+        "category_bg_color": "#fac5c5",
+        "card_bg_color": "#fae6e6",
+        "text_button_bg_color": "#ed6666",
+        "description": "Good education refers to a high-quality and effective system of learning and instruction that equips individuals with the knowledge, skills, and tools they need to succeed academically, personally, and professionally. good education is a comprehensive and inclusive approach to learning that prioritizes the development of well-rounded individuals with strong academic skills, critical thinking abilities, creativity, and a sense of social responsibility. It empowers students to thrive in a rapidly changing world. ",
+        "price": "$49.99"
+      },
+      {
+        "id": "6",
+        "picture": "https://i.ibb.co/mtFG4t1/Food.png",
+        "title": "Better Food For Everyone",
+        "category": "Food",
+        "category_bg_color": "#f5e6ce",
+        "card_bg_color": "#f0dada",
+        "text_button_bg_color": "#e69d7e",
+        "description": "Better food for everyone is a vision and initiative that seeks to improve the quality, accessibility, and sustainability of food for people around the world.In essence, better food for everyone is a multifaceted approach that envisions a world where food is not only abundant but also nutritious, environmentally sustainable, and accessible to all. It is a call to action for individuals, communities, and nations to come together to create a future where food contributes to the well-being of people and the planet alike.",
+        "price": "$79.99"
+      },
+      {
+        "id": "7",
+        "picture": "https://i.ibb.co/kmMyw3t/Health.png",
+        "title": "Clean water for health",
+        "category": "Health",
+        "category_bg_color": "#7ba3db",
+        "card_bg_color": "#b1ccf2",
+        "text_button_bg_color": "#1f64c4",
+        "description": "Clean Water for Health is a critical initiative aimed at ensuring access to safe and clean drinking water for all, as it plays a fundamental role in promoting public health and well-being.Clean Water for Health is an imperative initiative that recognizes the transformative power of clean water in improving public health, reducing disease burdens, and enhancing the overall quality of life. It strives to ensure that every person, regardless of their location or socioeconomic status, has access to this essential resource for a healthier and more prosperous future.",
+        "price": "$99.99"
+      },
+      {
+        "id": "8",
+        "picture": "https://i.ibb.co/mtFG4t1/Food.png",
+        "title": "Better Food For Everyone",
+        "category": "Food",
+        "category_bg_color": "#f5e6ce",
+        "card_bg_color": "#f0dada",
+        "text_button_bg_color": "#e69d7e",
+        "description": "Better food for everyone is a vision and initiative that seeks to improve the quality, accessibility, and sustainability of food for people around the world.In essence, better food for everyone is a multifaceted approach that envisions a world where food is not only abundant but also nutritious, environmentally sustainable, and accessible to all. It is a call to action for individuals, communities, and nations to come together to create a future where food contributes to the well-being of people and the planet alike.",
+        "price": "$79.99"
+      },
+      {
+        "id": "9",
+        "picture": "https://i.ibb.co/dc1kzdn/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#9cd6a4",
+        "card_bg_color": "#dcfae0",
+        "text_button_bg_color": "#94f294",
+        "description": "A Used Clothing Drive is a charitable event or campaign designed to collect gently used clothing from individuals, communities, or organizations and distribute them to those in need.Used Clothing Drive is not only a practical way to provide clothing to those in need but also an opportunity for communities to come together, show compassion, and make a positive impact on the lives of others. It embodies the spirit of generosity and solidarity and serves as a reminder of the power of collective action to create positive change.",
+        "price": "$19.99"
+      },
+      {
+        "id": "10",
+        "picture": "https://i.ibb.co/9tgZnMf/Education.png",
+        "title": "Good Education",
+        "category": "Education",
+        "category_bg_color": "#fac5c5",
+        "card_bg_color": "#fae6e6",
+        "text_button_bg_color": "#ed6666",
+        "description": "Good education refers to a high-quality and effective system of learning and instruction that equips individuals with the knowledge, skills, and tools they need to succeed academically, personally, and professionally. good education is a comprehensive and inclusive approach to learning that prioritizes the development of well-rounded individuals with strong academic skills, critical thinking abilities, creativity, and a sense of social responsibility. It empowers students to thrive in a rapidly changing world. ",
+        "price": "$49.99"
+      },{
+        "id": "11",
+        "picture": "https://i.ibb.co/kmMyw3t/Health.png",
+        "title": "Clean water for health",
+        "category": "Health",
+        "category_bg_color": "#7ba3db",
+        "card_bg_color": "#b1ccf2",
+        "text_button_bg_color": "#1f64c4",
+        "description": "Clean Water for Health is a critical initiative aimed at ensuring access to safe and clean drinking water for all, as it plays a fundamental role in promoting public health and well-being.Clean Water for Health is an imperative initiative that recognizes the transformative power of clean water in improving public health, reducing disease burdens, and enhancing the overall quality of life. It strives to ensure that every person, regardless of their location or socioeconomic status, has access to this essential resource for a healthier and more prosperous future.",
+        "price": "$99.99"
+      },
+      {
+        "id": "12",
+        "picture": "https://i.ibb.co/dc1kzdn/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#9cd6a4",
+        "card_bg_color": "#dcfae0",
+        "text_button_bg_color": "#94f294",
+        "description": "A Used Clothing Drive is a charitable event or campaign designed to collect gently used clothing from individuals, communities, or organizations and distribute them to those in need.Used Clothing Drive is not only a practical way to provide clothing to those in need but also an opportunity for communities to come together, show compassion, and make a positive impact on the lives of others. It embodies the spirit of generosity and solidarity and serves as a reminder of the power of collective action to create positive change.",
+        "price": "$19.99"
+      }
+      
+      
+]
