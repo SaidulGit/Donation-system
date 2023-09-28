@@ -9,11 +9,14 @@ import Root from './components/Root/Root';
 import Home from './components/Home/Home';
 import Donation from './components/Header/Navbar/Donation';
 import Statistics from './components/Header/Navbar/Statistics/Statistics';
+import Errorpage from './components/Errorpage/Errorpage';
+import Ddetails from './components/DonationDetails/details';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
+    errorElement: <Errorpage></Errorpage>,
     children : [
       {
         path :'/',
@@ -23,10 +26,15 @@ const router = createBrowserRouter([
       {
         path : '/donation',
         element : <Donation></Donation>
+        
       },
       {
         path : '/statistics',
-        element : <Statistics></Statistics>
+        element : <Statistics></Statistics>,
+
+      },{
+        path: '/Details/:id',
+        element: <Ddetails></Ddetails>
       }
     ]
   },

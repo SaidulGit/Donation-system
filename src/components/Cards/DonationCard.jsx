@@ -1,24 +1,28 @@
+import { Link } from "react-router-dom"
+
 const DonationCard = ({card}) => {
   const {id,picture,title,category,category_bg_color,card_bg_color,text_button_bg_color} = card || {}
   return (
     <div>
 
-<div ClassName="relative flex max-w-[24rem] flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
-  <div ClassName="relative m-0 overflow-hidden rounded-none bg-transparent bg-clip-border text-gray-700 shadow-none">
+    <Link to={`/Details/${id}`}>
+    <div style={{background:`${card_bg_color}`}} className="relative flex max-w-[24rem] flex-col rounded-xl  bg-clip-border shadow-md">
+  <div className="relative m-0 overflow-hidden rounded-none bg-transparent bg-clip-border shadow-none">
     <img
       src={picture}
       alt="ui/ux review check"
     />
   </div>
-  <div ClassName="p-6">
-    <h4 ClassName="block font-sans text-2xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
-      <button className=""> {category}</button>
+  <div className="p-6">
+    <h4 className="block font-sans text-2xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
+      <button className="px-3 py-1 m-4 rounded-md" style={{background:`${category_bg_color}`,color:`${text_button_bg_color}`}}> {category}</button>
     </h4>
-    <p ClassName="mt-3 block font-sans text-xl font-normal leading-relaxed text-gray-700 antialiased">
+    <p style={{color:`${text_button_bg_color}`,padding:"10px",fontSize:"20px",fontWeight:500}} className="block font-sans">
       {title}
     </p>
   </div>
 </div>
+    </Link>
     </div>
   )
 }

@@ -2,7 +2,6 @@ import DonationCard from "./DonationCard";
 
 const Cards = ({cards}) => {
 
-    console.log(cards);
   return (
     <div>
 

@@ -1,7 +1,5 @@
-
-
 const Donation = () => {
-  return (
+return (
     <div className="m-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2">
 
 <div className="relative flex w-full max-w-[48rem] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
