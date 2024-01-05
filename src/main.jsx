@@ -10,7 +10,7 @@ import Home from './components/Home/Home';
 import Donation from './components/Header/Navbar/Donation';
 import Statistics from './components/Header/Navbar/Statistics/Statistics';
 import Errorpage from './components/Errorpage/Errorpage';
-import Ddetails from './components/DonationDetails/details';
+import Details from './components/Cards/Details';
 
 const router = createBrowserRouter([
   {
@@ -30,11 +30,29 @@ const router = createBrowserRouter([
       },
       {
         path : '/statistics',
-        element : <Statistics></Statistics>,
+        element : <Statistics></Statistics>
 
-      },{
-        path: '/Details/:id',
-        element: <Ddetails></Ddetails>
+      },
+      {
+        path: '/user/:id',
+        loader: async ({params}) => {
+          try{
+            const response = await fetch(`/Data.json`);
+            if(!response.ok){
+              throw new Error('Failed to fetch data');
+            }
+
+            const data = await response.json();
+            const users = data.find(user => parseInt(user.id) === parseInt(params.id))
+            // const users = data.find(user => user.id === params.id)
+            return users;
+          }catch (error){
+            console.error('Error fetching data',error)
+            throw error;
+          }
+        } , 
+        element: <Details></Details>
+        
       }
     ]
   },

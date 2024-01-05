@@ -5,7 +5,7 @@ const DonationCard = ({card}) => {
   return (
     <div>
 
-    <Link to={`/Details/${id}`}>
+    <Link to={`/user/${parseInt(id)}`}>
     <div style={{background:`${card_bg_color}`}} className="relative flex max-w-[24rem] flex-col rounded-xl  bg-clip-border shadow-md">
   <div className="relative m-0 overflow-hidden rounded-none bg-transparent bg-clip-border shadow-none">
     <img

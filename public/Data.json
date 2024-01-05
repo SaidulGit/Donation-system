@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "picture": "https://i.ibb.co/kmMyw3t/Health.png",
         "title": "Clean water for health",
         "category": "Health",
@@ -11,7 +11,7 @@
         "price": "$99.99"
       },
       {
-        "id": "2",
+        "id": 2,
         "picture": "https://i.ibb.co/mtFG4t1/Food.png",
         "title": "Better Food For Everyone",
         "category": "Food",
@@ -22,7 +22,7 @@
         "price": "$79.99"
       },
       {
-        "id": "3",
+        "id": 3,
         "picture": "https://i.ibb.co/9tgZnMf/Education.png",
         "title": "Good Education",
         "category": "Education",
@@ -33,7 +33,7 @@
         "price": "$49.99"
       },
       {
-        "id": "4",
+        "id": 4,
         "picture": "https://i.ibb.co/dc1kzdn/Clothing.png",
         "title": "Used Clothing Drive",
         "category": "Clothing",
@@ -44,7 +44,7 @@
         "price": "$19.99"
       },
       {
-        "id": "5",
+        "id": 5,
         "picture": "https://i.ibb.co/9tgZnMf/Education.png",
         "title": "Good Education",
         "category": "Education",
@@ -55,7 +55,7 @@
         "price": "$49.99"
       },
       {
-        "id": "6",
+        "id": 6,
         "picture": "https://i.ibb.co/mtFG4t1/Food.png",
         "title": "Better Food For Everyone",
         "category": "Food",
@@ -66,7 +66,7 @@
         "price": "$79.99"
       },
       {
-        "id": "7",
+        "id": 7,
         "picture": "https://i.ibb.co/kmMyw3t/Health.png",
         "title": "Clean water for health",
         "category": "Health",
@@ -77,7 +77,7 @@
         "price": "$99.99"
       },
       {
-        "id": "8",
+        "id": 8,
         "picture": "https://i.ibb.co/mtFG4t1/Food.png",
         "title": "Better Food For Everyone",
         "category": "Food",
@@ -88,7 +88,7 @@
         "price": "$79.99"
       },
       {
-        "id": "9",
+        "id": 9,
         "picture": "https://i.ibb.co/dc1kzdn/Clothing.png",
         "title": "Used Clothing Drive",
         "category": "Clothing",
@@ -99,7 +99,7 @@
         "price": "$19.99"
       },
       {
-        "id": "10",
+        "id": 10,
         "picture": "https://i.ibb.co/9tgZnMf/Education.png",
         "title": "Good Education",
         "category": "Education",
@@ -108,8 +108,9 @@
         "text_button_bg_color": "#ed6666",
         "description": "Good education refers to a high-quality and effective system of learning and instruction that equips individuals with the knowledge, skills, and tools they need to succeed academically, personally, and professionally. good education is a comprehensive and inclusive approach to learning that prioritizes the development of well-rounded individuals with strong academic skills, critical thinking abilities, creativity, and a sense of social responsibility. It empowers students to thrive in a rapidly changing world. ",
         "price": "$49.99"
-      },{
-        "id": "11",
+      },
+      {
+        "id": 11,
         "picture": "https://i.ibb.co/kmMyw3t/Health.png",
         "title": "Clean water for health",
         "category": "Health",
@@ -120,7 +121,7 @@
         "price": "$99.99"
       },
       {
-        "id": "12",
+        "id": 12,
         "picture": "https://i.ibb.co/dc1kzdn/Clothing.png",
         "title": "Used Clothing Drive",
         "category": "Clothing",
