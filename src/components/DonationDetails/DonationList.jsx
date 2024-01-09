@@ -4,7 +4,6 @@ import {
   CardHeader,
   CardBody,
   Typography,
-  Button,
 } from "@material-tailwind/react";
 import { Link } from "react-router-dom";
 
@@ -20,7 +19,7 @@ const DonationList = ({ cart }) => {
     price,
   } = cart || {};
   return (
-    <div>
+    <div style={{background:`${card_bg_color}`}} className="rounded-lg">
       <Card className="w-full max-w-[48rem] flex-row">
         <CardHeader
           shadow={false}
