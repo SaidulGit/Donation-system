@@ -5,7 +5,7 @@ import Navbar from '../Header/Navbar/Navbar'
 
 const Root = () => {
   return (
-    <div className='w-[1400px] mx-auto'>
+    <div className='md:w-[1400px] mx-auto'>
         <Navbar></Navbar>
         <Outlet></Outlet>
     </div>

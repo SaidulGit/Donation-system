@@ -3,8 +3,9 @@ import Navbar from "../Navbar/Navbar";
 const Banner = () => {
   return (
     <div>
-      <div className="md:min-h-screen flex justify-center items-center absulate w-full bg-no-repeat bg-cover bg-[url('https://i.ibb.co/VqfjxnC/Whats-App-Image-2023-09-26-at-12-44-18-AM.jpg')]">
-        <div className="relative">
+      <div className="md:min-h-screen bg-[#FFFFFFF2] opacity-5 flex justify-center items-center absulate md:w-full bg-no-repeat bg-cover bg-[url('https://i.ibb.co/VqfjxnC/Whats-App-Image-2023-09-26-at-12-44-18-AM.jpg')]">
+      </div>
+      <div className="relative md:bottom-80">
           <div className="relative flex justify-center items-center">
             <h2 className="text-5xl font-bold text-black">
               I Grow By Helping People By Need
@@ -23,7 +24,6 @@ const Banner = () => {
             </button>
           </div>
         </div>
-      </div>
     </div>
   );
 };

@@ -16,4 +16,4 @@ const saveDataLS = (cart) => {
   const stringStringify = JSON.stringify(cart);
   localStorage.setItem("Donate", stringStringify);
 };
- export { addToLS , getDataLS };  
+ export { addToLS , getDataLS, };  

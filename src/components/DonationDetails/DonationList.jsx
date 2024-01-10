@@ -19,7 +19,8 @@ const DonationList = ({ cart }) => {
     price,
   } = cart || {};
   return (
-    <div style={{background:`${card_bg_color}`}} className="rounded-lg">
+   <div>
+     <div style={{background:`${card_bg_color}`}} className="rounded-lg">
       <Card className="w-full max-w-[48rem] flex-row">
         <CardHeader
           shadow={false}
@@ -70,6 +71,9 @@ const DonationList = ({ cart }) => {
         </CardBody>
       </Card>
     </div>
+        
+   </div>
+   
   );
 };
 
